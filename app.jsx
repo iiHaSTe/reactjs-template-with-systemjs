@@ -14,6 +14,9 @@ class App extends Component {
     return (
       <div>
         Hi, Mom!
+        <div className='alert'>
+          <p>this is <span>react</span> template using <label>system js</label></p>
+        </div>
       </div>
     );
   }

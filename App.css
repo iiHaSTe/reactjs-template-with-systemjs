@@ -3,3 +3,26 @@
   padding: 0;
   box-sizing: border-box;
 }
+div {
+  background-color: #30335A;
+  padding: 50px 0px;
+  color: white;
+}
+.alert {
+  background-color: #F6F6F6;
+  color: #1C1C1C;
+  padding: 10px;
+  margin: 20px 6px;
+  border: 2px solid #EDF2FF;
+  border-bottom: 2px solid #ACACAC;
+  border-radius: 5px;
+  font-size: 14pt;
+}
+.alert span {
+  color: #3B9EFF;
+  font-weight: 700;
+}
+.alert label {
+  color: #FFC216;
+  font-weight: 700;
+}
